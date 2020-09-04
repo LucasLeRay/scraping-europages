@@ -1,0 +1,11 @@
+{
+  "name": "scraping-europages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "minimist": "^1.2.5",
+    "puppeteer": "^5.2.1"
+  }
+}
